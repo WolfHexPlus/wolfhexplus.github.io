@@ -1,1 +1,1 @@
-AppName*This is a description of my app
+Cool*AppName*This is a description of my app
