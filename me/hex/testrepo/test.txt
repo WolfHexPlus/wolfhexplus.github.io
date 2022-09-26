@@ -1,1 +1,3 @@
 >APP*Appname*Desc of my app*https://example.com
+>APP*Appname*Desc of my app*https://example.com
+>APP*Appname*Desc of my app*https://example.com
