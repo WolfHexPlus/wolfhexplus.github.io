@@ -1,7 +1,1 @@
-a
-b
-c
-d
-e
-g
-c
+APP*Appname*Desc of my app*https://example.com
