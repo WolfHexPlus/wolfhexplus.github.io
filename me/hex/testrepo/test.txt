@@ -1,2 +1,3 @@
 Cool*AppName*This is a description of my app*https://raw.githubusercontent.com/WolfHexPlus/wolfhexplus.github.io/main/me/hex/testrepo/random.rtf
 Cool*AppName*This is a description of my app*https://raw.githubusercontent.com/WolfHexPlus/wolfhexplus.github.io/main/me/hex/testrepo/random.rtf
+Cool*AppName*This is a description of my app*https://raw.githubusercontent.com/WolfHexPlus/wolfhexplus.github.io/main/me/hex/testrepo/random.rtf
